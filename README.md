@@ -30,7 +30,7 @@ La aplicación entrena un modelo de clasificación usando `RandomForestClassifie
 - [Scikit-learn](https://scikit-learn.org/)
 - [Streamlit](https://streamlit.io/)
 
-## ⚙️ Cómo ejecutar la aplicación
+##Cómo ejecutar la aplicación
 
 ### 1. Instala las dependencias
 
