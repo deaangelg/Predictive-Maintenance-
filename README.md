@@ -19,7 +19,7 @@ La aplicación entrena un modelo de clasificación usando `RandomForestClassifie
 1. El modelo es entrenado con un dataset de mantenimiento predictivo (`predictive_maintenance.csv`).
 2. Se ingresan variables de entrada como temperatura, torque y desgaste de herramienta.
 3. El modelo predice el tipo de falla más probable.
-4. Se muestra una imagen ilustrativa de la falla (si está disponible).
+![Tool Wear Failure](MML_PORTAFOLIO.png)
 
 
 
